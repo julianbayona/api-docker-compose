@@ -4,33 +4,33 @@ Ya teniamos en previas clases el metodo get de las en nuestra API, procedemos a 
 
 ## 1b
 
-imagen 1
+![creacion](./imagenes/1.png)
 
 comprobamos 
 
-1.1
+![creacion](./imagenes/1.1.png)
 
 ## 2 Quitamos las redes de nuestros servicios 
 
-2
+![creacion](./imagenes/2.png)
 
 ## 2a Realizamos la conexion 
 
-2a
+![creacion](./imagenes/2a.png)
 
 ## 2b Verificacion 
 
-2b
+![creacion](./imagenes/2b.png)
 
 Vemos que no es posible realizar la conexion de la API a la base de datos 
 
 ## 3 Creamos nuestra red user-defined y conectamos nuestros servicios a esta red creada
 
-3
+![creacion](./imagenes/3.png)
 
 ## 3b Probamos la conexion
 
-3b
+![creacion](./imagenes/3b.png)
 
 ## Conclusion
 Para sistemas distribuidos usar una red user-defined es la mas adecuada tan por la facilidad de comunicacion por sus nombres entre servicios y porque se da un mayor aislamineto y mejor control de la configuracion de la red.
