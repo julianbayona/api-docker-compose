@@ -24,5 +24,16 @@ comprobamos
 
 Vemos que no es posible realizar la conexion de la API a la base de datos 
 
+## 3 Creamos nuestra red user-defined y conectamos nuestros servicios a esta red creada
+
+3
+
+## 3b Probamos la conexion
+
+3b
+
+## Conclusion
+Para sistemas distribuidos usar una red user-defined es la mas adecuada tan por la facilidad de comunicacion por sus nombres entre servicios y porque se da un mayor aislamineto y mejor control de la configuracion de la red.
+
 
 
